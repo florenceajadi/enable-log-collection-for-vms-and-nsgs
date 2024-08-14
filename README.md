@@ -1,0 +1,1 @@
+# enable-log-collection-for-vms-and-nsgs
